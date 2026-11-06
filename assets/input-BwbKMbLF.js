@@ -1,0 +1,1 @@
+import{a as e,s as t}from"./react-j-YLw3k9.js";import{n}from"./dist-CiXyabU2.js";t();var r=e();function i({className:e,...t}){return(0,r.jsx)(`input`,{className:n(`flex h-9 w-full rounded-md border border-input bg-background px-3 py-1 text-sm text-foreground shadow-sm outline-none focus-visible:ring-2 focus-visible:ring-ring`,e),...t})}export{i as t};
